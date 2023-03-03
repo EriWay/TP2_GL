@@ -35,11 +35,13 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
+		// Prend un objet de classe Requête en paramètre et analyse la maladie du patient 
 		return "requête analysée";
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
+		// Ne prend pas de paramètre et compare les analyses pour trouver un cluster
 		return "Cluster trouvé";
 	}
 
