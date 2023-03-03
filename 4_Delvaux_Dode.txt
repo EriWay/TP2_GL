@@ -1,3 +1,7 @@
 
 Delvaux Noé 
 Dode Ovide
+
+Avoir changé le fichier de branche, change sa visibilité. Il n'est maintenant visible que depuis la branche "mon_fichier".
+
+Pour enregistrer ces modifications il faudra sauvegarder ce txt, l'ajouter à la liste d'envoi avec git add et commit ce fichier.
